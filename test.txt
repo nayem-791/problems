@@ -6,5 +6,7 @@ And now, I'm learning branching on directly terminal.
 
 I learned github issue
 
-first
-second
+
+C language
+CPP language
+
