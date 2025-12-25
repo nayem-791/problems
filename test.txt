@@ -1,3 +1,5 @@
 I am learning now.
 
 Now, I am learning branching on directly github.
+
+And now, I'm learning branching on directly terminal.
