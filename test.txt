@@ -4,4 +4,4 @@ Now, I am learning branching on directly github.
 
 And now, I'm learning branching on directly terminal.
 
-some text added
+I learned github issue
